@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/netflex/static/js/main.2ddb4f5a.js",
+    "main.js": "/netflex/static/js/main.aecef89e.js",
     "index.html": "/netflex/index.html",
-    "main.2ddb4f5a.js.map": "/netflex/static/js/main.2ddb4f5a.js.map"
+    "main.aecef89e.js.map": "/netflex/static/js/main.aecef89e.js.map"
   },
   "entrypoints": [
-    "static/js/main.2ddb4f5a.js"
+    "static/js/main.aecef89e.js"
   ]
 }
